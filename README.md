@@ -16,3 +16,8 @@
 | Arbaco        |Algebra 1, R.methodolgy, Blender |
 | Khamiis       |Crypto, E.statistics, Blender    |
 | Jimco         |Crypto, Blender                  |
+
+# Projects 
+|Project    |Duration                               |
+|-----------|---------------------------------------|
+|Thesis     |**Nov 15, 2024** - **April 15, 2025**  |
