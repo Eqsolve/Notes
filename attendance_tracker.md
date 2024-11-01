@@ -1,4 +1,4 @@
-|           Date                      |E.statistics    |R.methodolgy      |Algebra 1         |Crypto            |R                 |Blender           |
+|           Date                      |E.statistics      |R.methodolgy      |Algebra 1         |Crypto            |R                 |Blender           |
 |-------------------------------------|------------------|------------------|------------------|------------------|------------------|------------------|
 |**Nov 01, 2024 (Jimco)**             |                  |                  |                  |                  |                  |                  |
 |**Nov 02, 2024 (Sabti)**             |                  |                  |                  |                  |                  |                  |
