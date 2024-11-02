@@ -7,15 +7,15 @@
 |Xagaa          |July - September   | ❌        |
 |Deyr           |October - December | ✅        |
 ## Deyr 2024
-|       Day        |         Subject              |
-|---------------|---------------------------------|
-| Sabti         |Crypto, Algebra 1, Blender       |
-| Axad          |E.statistics, Crypto, Blender    |
-| Isniin        |R.methodolgy, Crypto, Blender    |
-| Talaado       |E.statistics, Crypto, Blender    |
-| Arbaco        |Algebra 1, R.methodolgy, Blender |
-| Khamiis       |Crypto, E.statistics, Blender    |
-| Jimco         |Crypto, Blender                  |
+|       Day     |Crypto             |Algebra 1     |Blender       |E.statistics  |R.methodolgy     |
+|---------------|-------------------|--------------|--------------|--------------|-----------------|
+| Sabti         |**08:00-09:45**    |              |**Free 🕐**  |               |**10:00-11:45**  |
+| Axad          |
+| Isniin        |
+| Talaado       |    
+| Arbaco        |   
+| Khamiis       |     
+| Jimco         |                 
 
 # Projects 
 |Project    |Duration                               |
