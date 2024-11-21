@@ -32,3 +32,29 @@ d <- seq(from = 1.0, to = 2, length.out = 6) # [1] 1.0 1.2 1.4 1.6 1.8 2.0
 # repeat number as many as you like
 c <- rep(2, times = 6) # [1] 2 2 2 2 2 2
 ```
+## comparisons in R
+```r
+==     #equal
+=!     #not equal
+<      #less than
+>      #greater than
+<=     #less than or equal to
+>=     #greater than or qual to 
+```
+```r
+x <- c(1, 2, 3, 4, 5)
+any(x == 4)      #True
+all(x == 1:5)    #True
+```
+## Selecting vector elements
+```r
+x <- c(1:10)
+x[1]        # position 1 = 1
+x[4]        # Position 4 = 4
+x[7:11]     # [1]  7  8  9 10 NA
+x[c(1,5,6)] # position 1 5 and  6 = [1] 1 5 6
+x[-5]       # Ignore 5th position and return all other values = [1]  1  2  3  4  6  7  8  9 10
+x[-(1:6)    # ignore 1 up to 6th position and return other values = [1]  7  8  9 10
+x <= 5      #[1]  TRUE  TRUE  TRUE  TRUE  TRUE FALSE FALSE FALSE FALSE FALSE
+x[x <= 6]   # [1] 1 2 3 4 5 6
+```
