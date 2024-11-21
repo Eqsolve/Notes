@@ -57,4 +57,6 @@ x[-5]       # Ignore 5th position and return all other values = [1]  1  2  3  4 
 x[-(1:6)    # ignore 1 up to 6th position and return other values = [1]  7  8  9 10
 x <= 5      #[1]  TRUE  TRUE  TRUE  TRUE  TRUE FALSE FALSE FALSE FALSE FALSE
 x[x <= 6]   # [1] 1 2 3 4 5 6
+x %% 2 == 0     # even number = [1] FALSE  TRUE FALSE  TRUE FALSE  TRUE FALSE  TRUE FALSE  TRUE
+x[x %% 2 == 0]  # [1]  2  4  6  8 10
 ```
